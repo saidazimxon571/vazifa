@@ -1,0 +1,3 @@
+ism = "Saidazimxon"
+
+print(ism)

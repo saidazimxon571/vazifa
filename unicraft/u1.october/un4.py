@@ -1,0 +1,5 @@
+print("Notes from 1 day")
+print("the print statement is used to output strings")
+print("String are strings of character")
+print("string Concetiation is done with the + sign")
+print("New lines can be created with a / and the letter n")
